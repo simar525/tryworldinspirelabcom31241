@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://plume-avenue-9a7.notion.site/0f3eada6c5d34b369d3ef728ec1ae598?pvs=4/$1"
+ }
+  ]
+}
